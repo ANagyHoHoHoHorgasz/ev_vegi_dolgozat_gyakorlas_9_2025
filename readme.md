@@ -9,7 +9,7 @@
 5. Csatolj stíluslapot az index.html-hez
 6. Készíts másolatot az index.html-ről (kétszer) és nevezd át úgy, hogy a navigáció működjön! Ehhez a navigáció linkjeit is módosítanod kell!
 
-## CSS
+## CSS 
 
 **Az oldal**
 
